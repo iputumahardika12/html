@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>Cahaya Rezeki Carbon</title>
+</head>
+<link rel="stylesheet" href="layout.css" type="text/css" />
+<body>
+<div id="layout">
+ 	<div id="atas">
+		<img src="images/w-min.jpg"; height="100" width="460" >
+ 	</div>
+	<div id="menu">
+		<a class="link" href="index.html"><font color="yellow">Beranda</a>
+		<a class="link" href="halaman1.html"><font color="yellow">Produk</a>
+		<a class="link" href="jasa.html"><font color="yellow">Jasa</a>
+		<a class="link" href="halaman2.html"><font color="yellow">Tentang kita</a>
+		<a class="link" href="login.html"><font color="yellow">Login</a>
+	</div>
+<div id="produk">
+		<img src="images/y0029.jpeg"; width="450" height="500" >
+		<br></br>
+		<img src="images/y0042.jpeg"; width="450" height="430">
+		<br></br>
+		<img src="images/y0044.jpeg"; width="450" height="430">
+	</div>
+</div>
+	<h2 align="right"><a href="halaman3.html"><font color="yellow"> Lanjut halaman berikutnya </a></h2>
+</body>
+</html>
